@@ -1,4 +1,4 @@
-# basic-crud-php-admin-user-
+# Basic CRUD PHP MySQL
 
 This project is a basic CRUD (Create, Read, Update, Delete) web application built using PHP and MySQL with a simple user interface styled in Bootstrap. The application features role-based access for administrators and standard users, allowing each type of user to perform specific operations on a student database.
 
